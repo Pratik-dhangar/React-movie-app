@@ -15,6 +15,17 @@
 
 Built with React.js for the user interface, Appwrite for backend services, and styled with TailwindCSS, this Movie App lets users browse trending movies, search titles, and explore content using the TMDB API. It features a responsive layout and a sleek, modern design.
 
+## UI Preview
+
+| Home Page                              | Login Page                              |
+|---------------------------------------- |-----------------------------------------|
+| ![Home](./frontend/src/assets/Home.png) | ![Login](./frontend/src/assets/Loginn.png) |
+
+- **Home image:** `src/assets/Home.png`
+- **Login image:** `src/assets/Loginn.png`
+
+---
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **[Appwrite](https://appwrite.io/)** is an open-source Backend-as-a-Service (BaaS) platform that provides developers with a set of APIs to manage authentication, databases, storage, and more, enabling rapid development of secure and scalable applications.
