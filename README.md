@@ -21,8 +21,6 @@ Built with React.js for the user interface, Appwrite for backend services, and s
 |---------------------------------------- |-----------------------------------------|
 | ![Home](./public/Main.png) | ![Login](./public/Search.png) |
 
-- **Home image:** `src/assets/Home.png`
-- **Login image:** `src/assets/Loginn.png`
 
 ---
 
@@ -51,4 +49,6 @@ Built with React.js for the user interface, Appwrite for backend services, and s
 
 👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
 
-and many more, including code architecture and reusability
+and many more, including code architecture and reusability.
+
+
