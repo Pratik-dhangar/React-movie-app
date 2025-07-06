@@ -17,9 +17,9 @@ Built with React.js for the user interface, Appwrite for backend services, and s
 
 ## UI Preview
 
-| Home Page                              | Login Page                              |
+| Home Page                              | All Movies                              |
 |---------------------------------------- |-----------------------------------------|
-| ![Home](./frontend/src/assets/Home.png) | ![Login](./frontend/src/assets/Loginn.png) |
+| ![Home](./public/Main.png) | ![Login](./public/Search.png) |
 
 - **Home image:** `src/assets/Home.png`
 - **Login image:** `src/assets/Loginn.png`
