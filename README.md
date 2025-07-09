@@ -51,4 +51,6 @@ Built with React.js for the user interface, Appwrite for backend services, and s
 
 and many more, including code architecture and reusability.
 
+## Used For learning purposes 
+
 
